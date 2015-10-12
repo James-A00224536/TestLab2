@@ -1,0 +1,9 @@
+{
+  "name" : "TestLab2",
+  "version" : "0.0.1",
+  "dependencies": {
+    "http-server": "*",
+    "node-monkey": "*"
+  },
+  "main": "secondServer.js"
+}
